@@ -2,8 +2,8 @@
 /.gradle/
 ### Gradle template
 .gradle
-### Ignore template
-.ignore
+### Idea template
+.idea
 **/build/
 !src/**/build/
 
